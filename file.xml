@@ -1,0 +1,17 @@
+<cinelink xmlns="http://schemas.cinegy.com/2016/v1/cinelink.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cinelink.xsd">
+    <name>CinelinkIngest</name>
+    <shortname>cnling</shortname>
+    <extension>mxf</extension>
+    <location>H:\WorkspaceWatchfolder\</location>
+    <media>
+        <offset>
+            <time>00:00:00.00</time>
+        </offset>
+        <file location="H:\WorkspaceWatchfolder\file-1571926315098..MXF"/>
+    </media>
+    <metadata>
+        <field name="setRollName" value="cinelinkRoll"/>
+        <field name="setClipName" value="cinelinkClip"/>
+        <field name="internal metadata field2" value="Some inline value 2"/>
+    </metadata>
+</cinelink>
